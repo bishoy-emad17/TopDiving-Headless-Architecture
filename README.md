@@ -2,8 +2,8 @@
   <h2><b>[+] OPERATION: TOPDIVING</b></h2>
   <p><i>Headless Next.js E-Commerce & Booking Infrastructure</i></p>
   
-  <a href="https://brivox.tech/Portfolio/topdiving/"><img src="https://img.shields.io/badge/Status-LIVE_DEPLOYMENT-00b86c?style=for-the-badge" alt="Status"/></a>
-  <img src="https://img.shields.io/badge/Architecture-Headless-0b0f14?style=for-the-badge&border=8b949e" alt="Architecture"/>
+  <a href="[https://brivox.tech/Portfolio/topdiving/](https://brivox.tech/Portfolio/topdiving/)"><img src="[https://img.shields.io/badge/Status-LIVE_DEPLOYMENT-00b86c?style=for-the-badge](https://img.shields.io/badge/Status-LIVE_DEPLOYMENT-00b86c?style=for-the-badge)" alt="Status"/></a>
+  <img src="[https://img.shields.io/badge/Architecture-Headless-0b0f14?style=for-the-badge&border=8b949e](https://img.shields.io/badge/Architecture-Headless-0b0f14?style=for-the-badge&border=8b949e)" alt="Architecture"/>
   <br><br>
 </div>
 
@@ -72,13 +72,15 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     return res.status(500).json({ error: 'SECURE_TRANSACTION_FAILED' });
   }
 }
-🔗 [ LIVE DEPLOYMENT ]
-Explore the live architecture and UI/UX execution here:
+```
 
-➡️ Inspect TopDiving Platform
+---
+
+### 🔗 `[ LIVE DEPLOYMENT ]`
+Explore the live architecture and UI/UX execution here:  
+**➡️ [Inspect TopDiving Platform](https://brivox.tech/Portfolio/topdiving/)**
 
 <div align="center">
-
-
-<sub><i>Engineered by Bishoy Emad // BE SEC TERMINAL</i></sub>
+  <br>
+  <sub><i>Engineered by Bishoy Emad // BE SEC TERMINAL</i></sub>
 </div>
