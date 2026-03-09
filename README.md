@@ -4,7 +4,7 @@
   <h1><b>[ OPERATION: TOPDIVING ]</b></h1>
   <p><i>Next.js • PostgreSQL • Secure Headless Architecture</i></p>
   
-  <a href="https://brivox.tech/Portfolio/topdiving/"><img src="https://brivox.tech/Portfolio/topdiving/assets/3.png" alt="Status"/></a>
+  <a href="https://brivox.tech/Portfolio/topdiving/"><img src="https://img.shields.io/badge/Status-LIVE_DEPLOYMENT-00b86c?style=for-the-badge" alt="Status"/></a>
   <img src="https://img.shields.io/badge/Architecture-Headless_Microservices-0b0f14?style=for-the-badge&border=8b949e" alt="Architecture"/>
   <br><br>
 </div>
